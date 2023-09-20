@@ -1,0 +1,24 @@
+{
+  "name": "canvas-kinetics",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://bohdancho.github.io/physics",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.2",
+    "@typescript-eslint/eslint-plugin": "^6.7.0",
+    "@typescript-eslint/parser": "^6.7.0",
+    "eslint": "^8.49.0",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.5",
+    "vite-plugin-checker": "^0.6.2"
+  },
+  "dependencies": {
+    "reset-css": "^5.0.2"
+  }
+}
